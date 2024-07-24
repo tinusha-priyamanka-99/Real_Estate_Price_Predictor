@@ -7,4 +7,4 @@ This project is part of a data science series that walks through the step-by-ste
  - Develop a web interface to predict real estate prices
  - 
 ## Dataset
-The dataset used in this project is from Kaggle. You can download it here.
+The dataset used in this project is from Kaggle.
