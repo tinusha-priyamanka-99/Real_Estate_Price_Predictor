@@ -5,6 +5,7 @@ This project is part of a data science series that walks through the step-by-ste
  - Build a predictive model using scikit-learn and linear regression
  - Train the model using home prices data
  - Develop a web interface to predict real estate prices
+ - Model accuracy 81.9%.
    
 ## Dataset
 The dataset used in this project is from Kaggle.
